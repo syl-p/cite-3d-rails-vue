@@ -1,0 +1,3 @@
+class MediumSerializer < ApplicationSerializer
+  attributes :id, :description, :created_at, :updated_at
+end
