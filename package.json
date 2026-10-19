@@ -29,7 +29,7 @@
     "@tailwindcss/vite": "^4.3.3",
     "@types/node": "^26.4.0",
     "@types/three": "^0.185.4",
-    "@vitejs/plugin-vue": "^6.0.8",
+    "@vitejs/plugin-vue": "^6.0.10",
     "@vue/eslint-config-prettier": "^10.2.0",
     "@vue/eslint-config-typescript": "^14.9.0",
     "class-variance-authority": "^0.7.1",
